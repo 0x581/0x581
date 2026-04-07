@@ -41,9 +41,6 @@ I'm a passionate developer focused on the deeper layers of the Windows Operating
 ---
 
 ### 📂 Resources
-- 📦 **Download my latest project:** <a href="0x581.zip">0x581.zip</a>
+- 📦 **My Portfolio:** <a href="0x581.zip">0x581.zip</a>
 - 📫 **Reach me at:** `0x581@0x581.zip`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x581&show_icons=true&theme=tokyonight" alt="0x581's GitHub stats" />
-</p>
